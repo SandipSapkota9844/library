@@ -7,7 +7,7 @@
 ?>
 <html lang = "eng">
 	<head>
-		<title>Library System</title>
+		<title>Library Inventory Management System</title>
 		<meta charset = "utf-8" />
 		<meta name = "viewport" content = "width=device-width, initial-scale=1" />
 		<link rel = "stylesheet" type = "text/css" href = "css/bootstrap.css" />
@@ -17,7 +17,7 @@
 			<div class = "container-fluid">
 				<div class = "navbar-header">
 					<img src = "images/logo.png" width = "50px" height = "50px" />
-					<h4 class = "navbar-text navbar-right">Library System</h4>
+					<h4 class = "navbar-text navbar-right">Library Inventory Management System</h4>
 				</div>
 			</div>
 		</nav>
@@ -25,7 +25,7 @@
 			<div class = "col-lg-3 well">
 				<br />
 				<br />
-				<h4>Login Here..</h4>
+				<h4>Please Login Here </h4>
 				<hr style = "border:1px solid #d3d3d3; width:100%;" />
 				<form enctype = "multipart/form-data" id="frm-login">	
 					<div id = "username_warning" class = "form-group">
@@ -56,7 +56,7 @@
 		</div>
 		<nav class = "navbar navbar-default navbar-fixed-bottom">
 			<div class = "container-fluid">
-				<label class = "navbar-text pull-right">Library System &copy; All rights reserved 2016</label>
+				<label class = "navbar-text pull-right">Library Inventory Management System &copy; All rights reserved 2016</label>
 			</div>
 		</nav>
 	</body>

@@ -4,7 +4,7 @@
 ?>	
 <html lang = "eng">
 	<head>
-		<title>Library System</title>
+		<title>Library Inventory Management System</title>
 		<meta charset = "utf-8" />
 		<meta name = "viewport" content = "width=device-width, initial-scale=1" />
 		<link rel = "stylesheet" type = "text/css" href = "css/bootstrap.css" />
@@ -15,7 +15,7 @@
 			<div class = "container-fluid">
 				<div class = "navbar-header">
 					<img src = "images/logo.png" width = "50px" height = "50px" />
-					<h4 class = "navbar-text navbar-right">Library System</h4>
+					<h4 class = "navbar-text navbar-right">Library Inventory Management System</h4>
 				</div>
 			</div>
 		</nav>
@@ -131,7 +131,7 @@
 		<br />
 		<nav class = "navbar navbar-default navbar-fixed-bottom">
 			<div class = "container-fluid">
-				<label class = "navbar-text pull-right">Library System &copy; All rights reserved 2016</label>
+				<label class = "navbar-text pull-right">Library Inventory Management System &copy; All rights reserved 2016</label>
 			</div>
 		</nav>
 	</body>
